@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Registration form</string>
+    <string name="text_input_layout_hint_name">First Name</string>
+    <string name="text_input_layout_hint_last_name">Last Name</string>
+    <string name="text_input_layout_hint_phone_number">Phone Number</string>
+    <string name="text_input_layout_hint_email">email</string>
+    <string name="text_input_layout_hint_password">Password</string>
+    <string name="button_text_preview">Preview</string>
+    <string name="text_view_preview_title">Registration Summary</string>
+    <string name="text_view_label_phone">Phone: </string>
+    <string name="text_view_label_email">Email: </string>
+</resources>
